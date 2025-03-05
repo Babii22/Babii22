@@ -1,4 +1,4 @@
-# Meu nome é Barbara Ferreira! 😉
+# Barbara Ferreira! 😉
 
 
 ## 🔎 SOBRE MIM
