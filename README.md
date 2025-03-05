@@ -29,12 +29,6 @@
 
 ---
 
-## 📈 Contribuições Recentes
-
-![Gráfico de Contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Babii22&theme=react-dark&hide_border=true)
-
----
-
 ## 📬 Entre em Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barbara-ferreira22/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Babii22)
